@@ -1,4 +1,4 @@
-# Just practing with Three JS
+# Just practicing with Three JS
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
